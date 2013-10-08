@@ -30,4 +30,5 @@ t/92-release-pod-coverage.t
 t/93-release-kwalitee.t
 t/94-release-manifest.t
 t/95-release-spelling.t
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
